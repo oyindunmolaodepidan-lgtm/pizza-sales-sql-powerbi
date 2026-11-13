@@ -11,12 +11,12 @@ Maven Analytics Pizza Place Sales (2015) from Kaggle: 21,350 orders, 48,620 orde
 SQL Server (SSMS 22), T-SQL (joins, CTEs, window functions), Power BI, DAX.
 
 ## Data model
-![ERD](images/erd.png)
+![ERD](PIZZA ERD.png.png)
 
 Relationships: `orders → order_details → pizzas → pizza_types`
 
 ## Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](pizza place sales dashboard.png)
 
 ## Key insights
 - Total revenue was $817,860 across 21,350 orders, with an average order value of $38.31.
